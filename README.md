@@ -23,5 +23,68 @@ A Next.js-based tax calculator designed for Indian residents to compute their in
 - **Node.js** (version 16.x or above)
 - **npm** or **yarn** package manager
 
-   
-   
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/adarshp14/IndianTaxCalculator2025.git
+   cd IndianTaxCalculator2025
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Run the development server:
+   ```bash
+   npm run dev
+   ```
+4. Open the application in your browser:
+   ```
+   http://localhost:3000
+   ```
+
+### Building for Production
+
+1. Build the application:
+   ```bash
+   npm run build
+   ```
+2. Start the production server:
+   ```bash
+   npm start
+   ```
+
+### Folder Structure
+
+- **`app/`**: Contains app-level configurations and Next.js pages.
+- **`components/`**: Reusable UI components.
+- **`hooks/`**: Custom React hooks for functionality.
+- **`lib/`**: Utility functions and external libraries.
+- **`public/`**: Static assets such as images and icons.
+- **`styles/`**: Global and component-specific styles using Tailwind CSS.
+- **`utils/`**: Helper functions.
+
+### Scripts
+
+- `npm run dev`: Starts the development server.
+- `npm run build`: Builds the application for production.
+- `npm start`: Runs the production server.
+
+## Contributions
+
+Contributions are welcome! Please follow these steps:
+
+1. Fork the repository.
+2. Create a new feature branch (`feature/your-feature-name`).
+3. Commit your changes.
+4. Push the branch and submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+### Contact
+
+For feedback or questions, reach out to [adarshp14](https://github.com/adarshp14).
