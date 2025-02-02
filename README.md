@@ -23,9 +23,5 @@ A Next.js-based tax calculator designed for Indian residents to compute their in
 - **Node.js** (version 16.x or above)
 - **npm** or **yarn** package manager
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/adarshp14/IndianTaxCalculator2025.git
-   cd IndianTaxCalculator2025
+   
+   
